@@ -1,4 +1,4 @@
-### Paws and Whiskers Shelter
+# Paws and Whiskers Shelter
 
 A simple static website created to support stray animals by promoting food drives, medical aid, adoption, and donations.
 
