@@ -1,6 +1,6 @@
 # Paws and Whiskers Shelter
 
-A simple static website created to support stray animals by promoting food drives, medical aid, adoption, and donations.
+A simple static website created to support stray animals by promoting food drives, medical aid, adoption, and donations. Created a front-end interface and integrated it with Razorpay payment gateway to facilitate online contribution for animal welfare.
 
 ## Technologies Used
 
